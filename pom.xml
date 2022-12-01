@@ -52,7 +52,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<imageName>spring-boot-docker:spring-plugin</imageName>
+					<imageName>clirr/spring-boot-docker:rentalcar</imageName>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
